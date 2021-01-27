@@ -134,7 +134,7 @@
 // });
 
 
-//---------- Caso 2. Validar que un color en Hexadecimal esta bien formado. ----------
+//---------- Caso 3. Validar que un color en Hexadecimal esta bien formado. ----------
 
 // const pattern = /^#([A-Z]|\d){6}$/i;
 // const values = ['#445566', '#4a4a4a', '#Ac5544'];
